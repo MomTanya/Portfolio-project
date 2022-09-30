@@ -180,5 +180,8 @@ background-color: var(--branding-color);
         font-size: 12px;
         margin: 0;
     }
+    footer .email-link {
+        font-size: 18px;
+    }
     
 }
